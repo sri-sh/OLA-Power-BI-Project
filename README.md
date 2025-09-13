@@ -27,3 +27,5 @@ Revenue analysis by payment method and top customers by booking value
 Vehicle performance: Top vehicle types by ride distance, driver & customer ratings distribution
 
 Insights on incomplete rides and customer-driver rating correlation
+
+5. Show what the dashboard looks like - ![Dahboard Preview](https://github.com/sri-sh/OLA-Power-BI-Project/blob/main/OLA.png)
